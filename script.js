@@ -22,8 +22,8 @@ var criançasRefri=Math.round(1*crianças/2)
 
 
 
-//var carneAPHR=adultoCarne*horas/2
-//var carneCPHR=criançasCarne*horas/2
+ //var carneAPHR=adultoCarne*horas/2
+ //var carneCPHR=criançasCarne*horas/2
 
 
 
